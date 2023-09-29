@@ -41,6 +41,7 @@ based on your spending habits and portfolio. Track stocks using customized watch
 1. Bar-chart on Demand API: https://www.barchart.com/ondemand/api
 2. World Trading Data: https://www.worldtradingdata.com/
 3. Investors Exchange (IEX): https://iextrading.com/
+Note: The APIs used in the project code are  either deprecated or no longer supported by the provider.
 
 ### Run the application 
 Go to stocktrader root folder  
